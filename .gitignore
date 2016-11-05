@@ -27,3 +27,18 @@
 *.exe
 *.out
 *.app
+
+# libs, etc
+Assignments Archive/
+Solution Archive/
+glfw/
+glloadgen/
+glm/
+
+# vim
+*.swp
+*~
+
+# visual studio
+*.sln
+# more to add
